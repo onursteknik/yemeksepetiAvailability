@@ -1,6 +1,5 @@
 //Code Start
 'use strict';
-var fs = require('fs');
 var content = 'https://www.yemeksepeti.com/{RESTAURANT}}';
 //console.log('read data:', content);
 var kontrol=false;
